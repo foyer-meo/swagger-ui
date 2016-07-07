@@ -1,5 +1,21 @@
 # Swagger UI responsive theme
 
+## Customizations
+
+This is already a forked project which was subject to some major redesign and a much
+cleaner user interface compared to the original swagger-ui.
+
+However it is still not DRY enough for my taste which is why I removed some elements
+we have no use for.
+
+* only display content type selection when there is more than 1 possible format
+* hide main header
+* hide disclaimer
+* hide url and token
+
+
+## Original
+
 With inspiration from the [Auth0 api explorer](https://auth0.com/docs/apiv2) the original Swagger UI repo is modified to use a responsive layout.
 
 [![Swagger Theme example](dist/images/Swagger_explorer.png)](http://ecs.bobbytech.dk/api)
