@@ -82,7 +82,7 @@
 .swagger-section pre .vhdl .attribute,
 .swagger-section pre .clojure .attribute,
 .swagger-section pre .coffeescript .property {
-  color: #8888ff;
+  color: #88F;
 }
 .swagger-section pre .keyword,
 .swagger-section pre .id,
@@ -122,7 +122,7 @@
 }
 .swagger-section .swagger-ui-wrap {
   line-height: 1;
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
@@ -130,7 +130,7 @@
 }
 .swagger-section .swagger-ui-wrap b,
 .swagger-section .swagger-ui-wrap strong {
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
 }
 .swagger-section .swagger-ui-wrap q,
@@ -331,7 +331,7 @@
   width: 100%;
 }
 .swagger-section .swagger-ui-wrap .model-signature {
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   font-size: 1em;
   line-height: 1.5em;
 }
@@ -454,7 +454,7 @@
   font-size: 1.5em;
   line-height: 1.3em;
   padding: 10px 0 10px 0;
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
 }
 .swagger-section .swagger-ui-wrap .editor_holder {
@@ -517,7 +517,7 @@
   font-family: "Anonymous Pro", "Menlo", "Consolas", "Bitstream Vera Sans Mono", "Courier New", monospace;
 }
 .swagger-section .swagger-ui-wrap form.formtastic fieldset.inputs ol li.text textarea {
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   height: 250px;
   padding: 4px;
   display: block;
@@ -595,7 +595,7 @@
   margin: 20px 0 25px 0 !important;
 }
 .swagger-section .swagger-ui-wrap ul#resources {
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   font-size: 0.9em;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource {
@@ -668,7 +668,7 @@
   display: block;
   clear: none;
   float: left;
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource div.heading h2 a {
@@ -794,7 +794,6 @@
   padding: 6px 8px;
 }
 .swagger-section .swagger-ui-wrap ul#resources li.resource ul.endpoints li.endpoint ul.operations li.operation div.content div.sandbox_header span.response_throbber {
-  background-image: url('../images/throbber.gif');
   width: 128px;
   height: 16px;
   display: block;
@@ -1032,7 +1031,7 @@
   padding: 10px 0;
   font-size: 0.8em;
   border-top: 1px solid #dddddd;
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   color: #999999;
   font-style: italic;
 }
@@ -1047,7 +1046,7 @@
 }
 .swagger-section .swagger-ui-wrap .markdown ol,
 .swagger-section .swagger-ui-wrap .markdown ul {
-  font-family: "Droid Sans", sans-serif;
+  font-family: sans-serif;
   margin: 5px 0 10px;
   padding: 0 0 0 18px;
   list-style-type: disc;
