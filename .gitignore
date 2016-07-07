@@ -11,3 +11,8 @@ swagger-ui.sublime-workspace
 .project
 node_modules/*
 /nbproject/private/
+dist/
+src/main/html/css/
+!src/main/html/css/index.css
+!src/main/html/css/api-explorer.css
+!src/main/html/css/standalone.css
