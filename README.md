@@ -12,6 +12,8 @@ we have no use for.
 * hide main header
 * hide disclaimer
 * hide url and token
+* remove unused images and fonts
+* change left side nav to be more user friendly for poorly generated specs (use method and path instead of summary)
 
 
 ## Original
