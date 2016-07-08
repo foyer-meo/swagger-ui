@@ -46,7 +46,9 @@
             if (url && url.length > 1) {
                 url = decodeURIComponent(url[1]);
             } else {
-                url = window.location + "/swagger.json";
+                var a = document.createElement('a');
+                a.href = "swagger.json";
+                url = a.href;
             }
 
             window.swaggerUi = new SwaggerUi({
